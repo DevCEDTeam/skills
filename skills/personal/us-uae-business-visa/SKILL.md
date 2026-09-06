@@ -12,7 +12,9 @@ description: Build and verify step-by-step U.S. B-1/B-2 and UAE business-opportu
 - Never invent a minimum bank balance, travel history, sponsor, job title, ownership fact, or visa category.
 - Keep the U.S. and UAE cases legally separate. Never imply UAE travel is required to qualify for a U.S. visa.
 - Distinguish visa issuance from admission at the border and from permission to work.
-- Do not place passport numbers, bank balances, home addresses, or other personal identifiers in a public repository.
+- Do not place passport numbers, bank balances, home addresses, trust account numbers, or other personal identifiers in a public repository.
+- A third-party trust may be supplemental funding evidence only when the trust instrument and governing law permit the expenditure and an authorized trustee has approved it. Do not describe trust assets as the applicant's personal assets unless that is legally accurate.
+- A trust sponsorship letter or trust bank evidence does not replace an applicant-specific bank statement when the selected visa service expressly requires the applicant's own six-month statement.
 
 ## Council for Education (CED) status rule
 
@@ -40,6 +42,7 @@ Collect only facts needed for the requested workflow:
 6. Current employment, business, academic, family, and residence ties relevant to return.
 7. Prior international travel and prior visa refusals, stated exactly as they occurred.
 8. For UAE formation trips: destination emirate, intended entity/jurisdiction, proposed activities, and whether initial approval exists.
+9. If a trust will fund any expense: identify the trust only in the private case record; verify trustee authority, trust-purpose compatibility, amount/expense scope, and whether counsel has approved use of trust assets.
 
 ## U.S. workflow — conference/business visit
 
@@ -50,9 +53,10 @@ Collect only facts needed for the requested workflow:
 5. Schedule the interview at the appropriate U.S. Embassy or Consulate, normally in the applicant's country of nationality or residence.
 6. Build the file in four folders: mandatory documents, purpose, funding, and return ties.
 7. Treat a conference invitation as purpose evidence, not as a guarantee or substitute for eligibility.
-8. Prepare concise interview answers: why this trip, how long, who pays, what the applicant does at home, and why they will return.
-9. Never fabricate travel history or supporting documents. If there is no prior travel, state that truthfully.
-10. After issuance, explain that visa validity does not determine the period of admission; CBP determines admission at the port of entry.
+8. If a third-party trust is paying costs, place its evidence in the funding folder as sponsor evidence. Include only what is necessary: trustee authorization, proof of trustee authority, redacted trust certification or relevant excerpt, and bank evidence in the trust's name. Do not present the trust as proof of the applicant's own assets or return ties.
+9. Prepare concise interview answers: why this trip, how long, who pays, what the applicant does at home, and why they will return.
+10. Never fabricate travel history or supporting documents. If there is no prior travel, state that truthfully.
+11. After issuance, explain that visa validity does not determine the period of admission; CBP determines admission at the port of entry.
 
 ## UAE workflow — business establishment / DIFC
 
@@ -60,10 +64,23 @@ Collect only facts needed for the requested workflow:
 2. For a genuine business-establishment trip, evaluate the current Business Opportunity Exploration Visa before defaulting to a tourist route.
 3. For Dubai/GDRFA, verify the current sponsor/host rule and current documentary requirements directly on GDRFA.
 4. For ICP, verify the selected duration and current requirements; some ICP business-establishment routes require initial business-establishment approval, a stamped six-month bank statement, qualification evidence, health insurance, and a financial guarantee.
-5. Do not replace a published six-month statement requirement with a guessed balance certificate or arbitrary dollar amount.
-6. If the purpose is DIFC incorporation, obtain or prepare: law-firm engagement, formal appointment confirmation, proposed business-activity memorandum, ownership/governance information, funding evidence, and DIFC initial approval when the selected route requires it.
-7. Keep immigration language narrow and accurate: temporary travel to meet UAE counsel and establish/register the proposed entity; do not characterize the trip as UAE employment unless work authorization exists.
-8. Confirm return/onward travel, accommodation, and UAE-valid insurance when required by the chosen route.
+5. Do not replace a published six-month statement requirement with a guessed balance certificate, trust sponsorship letter, or arbitrary dollar amount.
+6. A legally authorized third-party trust may supplement the UAE funding file with evidence of committed payment for travel, legal fees, or incorporation expenses, but it does not automatically satisfy a published applicant-bank-statement or proof-of-investment requirement.
+7. If the purpose is DIFC incorporation, obtain or prepare: law-firm engagement, formal appointment confirmation, proposed business-activity memorandum, ownership/governance information, applicant/organization/trust funding evidence as applicable, and DIFC initial approval when the selected route requires it.
+8. Keep immigration language narrow and accurate: temporary travel to meet UAE counsel and establish/register the proposed entity; do not characterize the trip as UAE employment unless work authorization exists.
+9. Confirm return/onward travel, accommodation, and UAE-valid insurance when required by the chosen route.
+
+## Third-party trust evidence package
+
+When a trust is proposed as a funding source, use only if legally authorized and relevant. Prefer:
+
+1. A short certification of trust or redacted excerpt showing existence of the trust and trustee authority.
+2. A trustee authorization letter identifying the traveler, the permitted expenses, and whether payment will be direct or reimbursed.
+3. Current bank letter or statement in the trust's legal name, redacted to the minimum needed.
+4. Evidence connecting the authorized trustee to the trust account.
+5. Counsel confirmation when there is any doubt about fiduciary authority, beneficiary restrictions, or use of trust assets for a third party.
+
+Do not upload full trust instruments or confidential account statements to a public repository.
 
 ## DIFC incorporation context
 
@@ -77,9 +94,10 @@ Give the user:
 2. A status dashboard: READY / NEEDED / VERIFY / PENDING.
 3. Numbered filing steps in chronological order.
 4. A document checklist separated into mandatory, supporting, and optional evidence.
-5. A consistency audit listing facts that must match across forms and letters.
-6. A short interview/border script using only verified user facts.
-7. A red-flag section for unsupported claims, unexplained deposits, inconsistent ownership/job titles, mixed visa purposes, or charitable/securities conflation.
-8. A dated source note showing when official requirements were last checked.
+5. A funding-source table separating applicant funds, organization funds, and trust funds.
+6. A consistency audit listing facts that must match across forms and letters.
+7. A short interview/border script using only verified user facts.
+8. A red-flag section for unsupported claims, unexplained deposits, inconsistent ownership/job titles, mixed visa purposes, unauthorized trust use, or charitable/securities conflation.
+9. A dated source note showing when official requirements were last checked.
 
 See [REFERENCE.md](REFERENCE.md) for official source hierarchy and current verification notes. See [CASE-TEMPLATE.md](CASE-TEMPLATE.md) for a privacy-safe case worksheet.

@@ -1,13 +1,12 @@
 # Case Template — Keep PII Out of Public Repositories
 
-Use placeholders in the repository. Store passport numbers, bank balances, home addresses, birth dates, and private financial records only in an appropriate private case-management system.
+Use placeholders in the repository. Store passport numbers, bank balances, home addresses, birth dates, trust account numbers, beneficiary details, and private financial records only in an appropriate private case-management system.
 
 ## Applicant
 
 - Nationality: [COUNTRY]
 - Country of residence: [COUNTRY]
 - Passport: [READY / RENEWAL NEEDED]
-- Passport expiry: [PRIVATE — verify locally]
 - Prior international travel: [NONE / SUMMARY]
 - Prior visa refusals: [NONE / SUMMARY]
 
@@ -17,83 +16,84 @@ Preferred description:
 
 **Council for Education (CED), a 501(c)(3) tax-exempt public charity under IRC §509(a)(2), EIN 82-3295336, with exemption effective September 20, 2024. Contributions to CED are deductible under IRC §170.**
 
-Source basis: IRS Letter 947 dated January 2, 2025.
+Keep charitable contributions separate from any PPM, Regulation D, Regulation S, Revenue Participation Interest, or other securities investment.
 
-Separation check:
+## Funding sources
 
-- Charitable contribution to CED: [YES / NO / NOT RELEVANT]
-- Securities/PPM/Reg D/Reg S investment: [YES / NO / NOT RELEVANT]
-- If both exist, are they described and documented separately? [YES / NO]
-- Confirm no investment is described as §170-deductible solely because CED is tax-exempt. [CONFIRMED / FIX NEEDED]
+### Applicant funds
+- Personal bank evidence: [READY / NEEDED / NOT REQUIRED]
+- Six-month statement required by selected route? [YES / NO / VERIFY]
+
+### Organization funds
+- Organization: [NAME]
+- Sponsorship/authorization letter: [READY / NEEDED]
+- Expenses covered: [AIRFARE / HOTEL / LEGAL / INCORPORATION / OTHER]
+
+### Third-party revocable trust funds
+- Trust: [PRIVATE CASE RECORD ONLY]
+- Trustee authority verified: [YES / NO / PENDING COUNSEL]
+- Trust instrument permits expenditure: [YES / NO / PENDING COUNSEL]
+- Trustee authorization letter: [READY / NEEDED]
+- Certification/redacted trust excerpt: [READY / NEEDED]
+- Trust bank letter/statement: [READY / NEEDED]
+- Expenses authorized: [AIRFARE / HOTEL / LEGAL / INCORPORATION / OTHER]
+- Direct payment or reimbursement: [DIRECT / REIMBURSEMENT / BOTH]
+
+**Rule:** Trust assets are third-party financial support unless they legally belong to the applicant. A trust statement does not replace an applicant's own six-month bank statement when the selected visa service expressly requires one.
 
 ## U.S. business/conference case
 
 - Intended classification: B-1/B-2 visitor
 - Purpose: Attend [CONFERENCE TYPE] for [NUMBER] days
-- U.S. destination: [CITY, STATE]
+- Destination: [CITY, STATE]
 - Invitation: [READY / NEEDED]
 - Registration: [READY / NEEDED]
-- Dates: [START] to [END]
-- Trip funder: [APPLICANT / EMPLOYER / ORGANIZATION / OTHER]
-- Home-country occupation/business/academic role: [ROLE]
+- Trip funder(s): [APPLICANT / CED / TRUST / OTHER]
 - Main return ties: [EMPLOYMENT / BUSINESS / STUDY / FAMILY / RESIDENCE / OTHER]
 - DS-160: [NOT STARTED / DRAFT / SUBMITTED]
-- MRV fee: [NOT PAID / PAID]
 - Interview: [NOT SCHEDULED / SCHEDULED]
-
-### U.S. purpose statement
-
-"I am traveling temporarily to the United States to attend a [NUMBER]-day professional/business conference in [CITY]. I will return to [HOME COUNTRY] after the scheduled visit."
-
-Use only if factually accurate.
 
 ## UAE business-establishment case
 
 - Destination emirate: [DUBAI / OTHER]
 - Proposed jurisdiction: [DIFC / ADGM / MAINLAND / FREE ZONE / OTHER]
 - Proposed entity: [NAME]
-- Purpose: Meet UAE counsel and undertake steps to establish/register the proposed entity
+- Purpose: Meet UAE counsel and establish/register proposed entity
 - UAE law firm: [SELECTED / PENDING]
 - Engagement letter: [READY / NEEDED]
 - Appointment confirmation: [READY / NEEDED]
-- Proposed activities memorandum: [READY / NEEDED]
-- Ownership/governance chart: [READY / NEEDED]
-- Business-establishment initial approval: [READY / NOT YET / VERIFY WHETHER REQUIRED]
+- Initial approval: [READY / NOT YET / VERIFY]
 - Visa authority/channel: [GDRFA / ICP / OTHER]
 - Visa category/duration: [VERIFY]
-- Financial evidence: [VERIFY AGAINST SELECTED ROUTE]
+- Applicant bank statement: [READY / NEEDED / VERIFY]
+- Organization funding evidence: [READY / NEEDED / NOT USED]
+- Trust funding evidence: [READY / NEEDED / NOT USED]
 - Insurance: [READY / NEEDED / VERIFY]
 - Return/onward travel: [READY / NEEDED]
 
-### UAE purpose statement
-
-"I am traveling temporarily to the UAE for a scheduled consultation with UAE legal counsel concerning the establishment and registration of a proposed business entity in [JURISDICTION]."
-
-Use only if factually accurate.
-
 ## Status dashboard
 
-| Item | Status | Owner | Source/Notes |
+| Item | Status | Owner | Notes |
 |---|---|---|---|
 | Passport |  | Applicant |  |
-| Identity documents |  | Applicant |  |
 | Invitation/appointment |  | Organizer/Law firm |  |
-| Funding evidence |  | Applicant/Funder |  |
+| Applicant funding |  | Applicant |  |
+| Organization funding |  | Organization |  |
+| Trust funding |  | Trustee |  |
 | Return-ties evidence |  | Applicant |  |
 | Government form |  | Applicant |  |
-| Fee |  | Applicant |  |
 | Interview/entry permit |  | Applicant |  |
 
 ## Final pre-filing audit
 
 - [ ] Names and passport data match everywhere.
 - [ ] Job titles and ownership facts are consistent and supported.
-- [ ] CED is described consistently as a 501(c)(3) tax-exempt public charity under IRC §509(a)(2), EIN 82-3295336, effective September 20, 2024, when that status is material.
-- [ ] Any charitable contribution to CED is kept separate from any PPM/Reg D/Reg S or other securities investment.
-- [ ] No securities investment is described as §170-deductible solely because CED is tax-exempt.
-- [ ] Dates and trip length match the invitation, itinerary, forms, and booking records.
-- [ ] The person identified as paying expenses is consistent across forms and letters.
+- [ ] CED status is stated consistently when material.
+- [ ] Charitable contributions are separated from securities investments.
+- [ ] The actual payer of each expense is identified consistently.
+- [ ] Any trust funding is supported by trustee authority and permitted-use documentation.
+- [ ] Trust assets are not described as the applicant's personal assets unless legally accurate.
+- [ ] Trust evidence is not used to evade an express applicant-bank-statement requirement.
 - [ ] No unsupported bank-balance minimum has been inserted.
-- [ ] No travel history, job title, ownership interest, sponsorship, or business activity has been invented.
-- [ ] U.S. and UAE applications are presented as independent temporary-travel matters.
+- [ ] No travel history, sponsorship, ownership interest, or business activity has been invented.
 - [ ] Official requirements were re-checked on the date of filing.
