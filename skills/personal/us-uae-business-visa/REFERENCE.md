@@ -4,6 +4,32 @@ Last verified: 2026-09-05
 
 This file records the official sources and the current facts that were verified when the skill was created. Re-check the official pages before every filing because visa rules and service requirements can change.
 
+## Council for Education (CED) — verified IRS status
+
+Source: IRS Letter 947 dated January 2, 2025.
+
+Verified facts:
+
+- Legal name: Council for Education.
+- EIN: 82-3295336.
+- Federal tax-exempt status: exempt under IRC §501(c)(3).
+- Public-charity classification: IRC §509(a)(2).
+- Effective date of exemption: September 20, 2024.
+- Contribution deductibility: yes; the IRS letter states that donors can deduct contributions to CED under IRC §170.
+
+Required wording when CED status is material:
+
+**Council for Education (CED), a 501(c)(3) tax-exempt public charity under IRC §509(a)(2), EIN 82-3295336, with exemption effective September 20, 2024. Contributions to CED are deductible under IRC §170.**
+
+### Mandatory separation rule — charitable contributions vs. securities investments
+
+- Do not conflate a charitable contribution to CED with an investment made under a PPM, Regulation D, Regulation S, Revenue Participation Interest, or other securities offering.
+- CED's §501(c)(3) status and §170 contribution deductibility do not make a securities purchase tax-deductible.
+- A securities investment should be described and documented as an investment, not as a charitable donation, unless qualified U.S. tax and securities counsel specifically determine otherwise for a particular transaction.
+- Keep charitable fundraising, securities offering, visa, banking, DIFC-incorporation, and source-of-funds narratives separate unless a specific factual relationship must be disclosed.
+- Do not imply that the IRS determination letter approves, validates, guarantees, or endorses an investment, offering, visa application, DIFC entity, bank application, or financial product.
+- If current exempt status is material to a filing or transaction, verify that no later IRS action has superseded Letter 947.
+
 ## U.S. — B-1/B-2 business visitor
 
 ### Official sources
@@ -132,6 +158,8 @@ Before filing either visa case, compare all forms and letters for:
 - full legal name and passport details;
 - nationality and residence;
 - job title and employer/organization;
+- CED status wording when material;
+- whether a payment is a charitable contribution or a securities investment;
 - ownership statements;
 - trip dates and length;
 - destination and venue/office;

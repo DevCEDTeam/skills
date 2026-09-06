@@ -11,6 +11,21 @@ Use placeholders in the repository. Store passport numbers, bank balances, home 
 - Prior international travel: [NONE / SUMMARY]
 - Prior visa refusals: [NONE / SUMMARY]
 
+## Council for Education (CED) — use when material
+
+Preferred description:
+
+**Council for Education (CED), a 501(c)(3) tax-exempt public charity under IRC §509(a)(2), EIN 82-3295336, with exemption effective September 20, 2024. Contributions to CED are deductible under IRC §170.**
+
+Source basis: IRS Letter 947 dated January 2, 2025.
+
+Separation check:
+
+- Charitable contribution to CED: [YES / NO / NOT RELEVANT]
+- Securities/PPM/Reg D/Reg S investment: [YES / NO / NOT RELEVANT]
+- If both exist, are they described and documented separately? [YES / NO]
+- Confirm no investment is described as §170-deductible solely because CED is tax-exempt. [CONFIRMED / FIX NEEDED]
+
 ## U.S. business/conference case
 
 - Intended classification: B-1/B-2 visitor
@@ -73,6 +88,9 @@ Use only if factually accurate.
 
 - [ ] Names and passport data match everywhere.
 - [ ] Job titles and ownership facts are consistent and supported.
+- [ ] CED is described consistently as a 501(c)(3) tax-exempt public charity under IRC §509(a)(2), EIN 82-3295336, effective September 20, 2024, when that status is material.
+- [ ] Any charitable contribution to CED is kept separate from any PPM/Reg D/Reg S or other securities investment.
+- [ ] No securities investment is described as §170-deductible solely because CED is tax-exempt.
 - [ ] Dates and trip length match the invitation, itinerary, forms, and booking records.
 - [ ] The person identified as paying expenses is consistent across forms and letters.
 - [ ] No unsupported bank-balance minimum has been inserted.
