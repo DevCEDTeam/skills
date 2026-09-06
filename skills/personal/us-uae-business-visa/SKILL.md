@@ -1,6 +1,6 @@
 ---
 name: us-uae-business-visa
-description: Build and verify step-by-step U.S. B-1/B-2 and UAE business-opportunity visit visa plans for foreign nationals. Use when the user asks about attending a U.S. conference, traveling to the UAE to establish or incorporate a business (including DIFC), invitation or appointment letters, visa document checklists, funding and ties evidence, interview preparation, or U.S./UAE visa-route comparison.
+description: Build, verify, and deploy step-by-step U.S. B-1/B-2 and UAE business-opportunity visit visa planning workflows for foreign nationals. Use when the user asks about attending a U.S. conference, traveling to the UAE to establish or incorporate a business (including DIFC), invitation or appointment letters, visa document checklists, funding and ties evidence, interview preparation, U.S./UAE visa-route comparison, or building and deploying this skill inside a Git repository.
 ---
 
 # U.S. / UAE Business Visa
@@ -119,6 +119,90 @@ Do not upload full trust instruments or confidential account statements to a pub
 ## DIFC incorporation context
 
 When the UAE purpose is DIFC formation, separate the visa file from the corporate file. The corporate workstream should ordinarily address legal form, activities, regulatory classification, initial approval, registered address, constitutional documents, payment/e-signing, and issuance of the licence/certificate. Do not assume a particular legal form or DFSA status before counsel/DIFC classification.
+
+## Build and deploy inside a Git repository
+
+Use the repository as the source of truth. For the current `DevCEDTeam/skills` layout, keep this skill at:
+
+```text
+skills/personal/us-uae-business-visa/
+├── SKILL.md
+├── REFERENCE.md
+└── CASE-TEMPLATE.md
+```
+
+### Build/update workflow
+
+1. Start from an up-to-date default branch.
+2. Create a feature branch; do not overwrite unrelated work.
+3. Edit `SKILL.md` and companion files only as needed.
+4. Keep YAML frontmatter valid and keep the skill name stable unless intentionally renaming the skill.
+5. Never commit private case records, passport data, bank statements, trust account numbers, attorney-client privileged material, secrets, tokens, or credentials.
+6. Run repository checks before committing:
+
+```bash
+git status --short
+git diff --check
+./scripts/list-skills.sh | grep 'skills/personal/us-uae-business-visa/SKILL.md'
+```
+
+7. Review the complete diff before commit:
+
+```bash
+git diff -- skills/personal/us-uae-business-visa/
+```
+
+8. Commit on the feature branch with a narrow message, push the branch, open a pull request, review it, and merge only after the changes are correct.
+
+Example Git workflow:
+
+```bash
+git switch main
+git pull --ff-only
+git switch -c feature/update-us-uae-business-visa
+git add skills/personal/us-uae-business-visa/
+git diff --cached --check
+git diff --cached
+git commit -m "Update U.S./UAE business visa skill"
+git push -u origin feature/update-us-uae-business-visa
+```
+
+Do not force-push or rewrite the default branch merely to deploy a skill update.
+
+### Local Claude CLI deployment for this repository
+
+The repository includes `scripts/link-skills.sh`. It finds non-deprecated `SKILL.md` files and creates per-skill symbolic links under `~/.claude/skills`.
+
+From the repository root, deploy/relink with:
+
+```bash
+./scripts/link-skills.sh
+```
+
+Verify the skill is linked:
+
+```bash
+test -L "$HOME/.claude/skills/us-uae-business-visa"
+readlink -f "$HOME/.claude/skills/us-uae-business-visa"
+```
+
+The resolved path should point to the repository's `skills/personal/us-uae-business-visa` directory. If the repository is moved, re-run `./scripts/link-skills.sh`.
+
+### Deployment acceptance checklist
+
+- [ ] `SKILL.md` exists at the canonical repository path.
+- [ ] Frontmatter contains `name` and a trigger-focused `description`.
+- [ ] `REFERENCE.md` and `CASE-TEMPLATE.md` links resolve.
+- [ ] `git diff --check` passes.
+- [ ] `./scripts/list-skills.sh` lists the skill.
+- [ ] No PII, account data, secrets, or privileged client documents were committed.
+- [ ] Feature branch and pull request contain only intended changes.
+- [ ] After merge, the local checkout is updated.
+- [ ] `./scripts/link-skills.sh` completes successfully.
+- [ ] `~/.claude/skills/us-uae-business-visa` resolves to this repository's skill directory.
+- [ ] A fresh Claude Code session can discover the skill from its description.
+
+For a different Git repository, preserve the same principles but use that repository's documented skill root, validation commands, and deployment mechanism instead of assuming this repo's scripts exist.
 
 ## Output format
 
