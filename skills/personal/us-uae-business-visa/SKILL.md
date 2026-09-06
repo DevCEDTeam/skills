@@ -61,14 +61,48 @@ Collect only facts needed for the requested workflow:
 ## UAE workflow — business establishment / DIFC
 
 1. Identify the filing authority before building the checklist: Dubai/GDRFA or federal ICP. Do not merge their document lists.
-2. For a genuine business-establishment trip, evaluate the current Business Opportunity Exploration Visa before defaulting to a tourist route.
-3. For Dubai/GDRFA, verify the current sponsor/host rule and current documentary requirements directly on GDRFA.
+2. For a genuine Dubai business-establishment trip, evaluate the **Dubai/GDRFA Visit Visa for Exploring Business Opportunities**, including the 60-day option, before defaulting to a tourist route.
+3. For Dubai/GDRFA, verify the current sponsor/host rule, duration, fees, security deposit, and documentary requirements directly on GDRFA before filing.
 4. For ICP, verify the selected duration and current requirements; some ICP business-establishment routes require initial business-establishment approval, a stamped six-month bank statement, qualification evidence, health insurance, and a financial guarantee.
-5. Do not replace a published six-month statement requirement with a guessed balance certificate, trust sponsorship letter, or arbitrary dollar amount.
+5. Do not replace a published six-month statement requirement with a guessed balance certificate, trust sponsorship letter, attorney client-funds letter, or arbitrary dollar amount.
 6. A legally authorized third-party trust may supplement the UAE funding file with evidence of committed payment for travel, legal fees, or incorporation expenses, but it does not automatically satisfy a published applicant-bank-statement or proof-of-investment requirement.
-7. If the purpose is DIFC incorporation, obtain or prepare: law-firm engagement, formal appointment confirmation, proposed business-activity memorandum, ownership/governance information, applicant/organization/trust funding evidence as applicable, and DIFC initial approval when the selected route requires it.
+7. If the purpose is DIFC incorporation, obtain or prepare: law-firm engagement, formal appointment confirmation, proposed business-activity memorandum, ownership/governance information, applicant/organization/trust funding evidence as applicable, proof-of-investment evidence for the selected route, and DIFC initial approval when required.
 8. Keep immigration language narrow and accurate: temporary travel to meet UAE counsel and establish/register the proposed entity; do not characterize the trip as UAE employment unless work authorization exists.
 9. Confirm return/onward travel, accommodation, and UAE-valid insurance when required by the chosen route.
+
+## Dubai/GDRFA 60-day Business Opportunity Exploration route
+
+Use this route as a **primary candidate** when all of the following are true:
+
+- the actual destination is Dubai;
+- the actual purpose is to research, explore, negotiate, or undertake preliminary steps toward a genuine business opportunity or entity establishment;
+- the traveler is not using the visit to perform unauthorized employment;
+- the current GDRFA service still offers a 60-day option; and
+- the applicant can provide the currently required documents, especially acceptable proof of investment.
+
+Before filing, verify the official GDRFA page and record the verification date. At the time of the most recent reference update, GDRFA stated that this service can be issued for single or multiple entries and does not require a UAE sponsor/host. See [REFERENCE.md](REFERENCE.md) for dated details.
+
+### Evidence architecture for a Dubai/DIFC case
+
+Prefer a coherent chain of documents:
+
+1. Passport and compliant photograph.
+2. UAE law-firm engagement letter.
+3. Formal Dubai appointment confirmation identifying the traveler, meeting date/time, office, lawyer contact, and business-establishment purpose.
+4. Proposed DIFC entity/business-activity memorandum.
+5. Ownership/governance information.
+6. Proof-of-investment evidence responsive to GDRFA's current wording.
+7. If money is already held by counsel, an attorney client-funds confirmation identifying the client-specific amount and authorized business-establishment purpose.
+8. Source-of-funds evidence for CED, a legally authorized trust, the applicant, or another genuine funder.
+9. Return/onward and accommodation evidence when useful or required.
+
+### Attorney client-funds / IOLTA rule
+
+A law-firm trust-account deposit can be useful supporting evidence if genuine, but do not claim that a particular amount automatically satisfies GDRFA's "proof of investment" requirement unless GDRFA or the filing professional confirms acceptance.
+
+Prefer the internationally clear description **attorney client trust account** or **client funds account** unless the account is actually an IOLTA and that terminology is necessary. A pooled IOLTA bank balance alone is not proof that the applicant or client owns the whole account balance; use a client-specific ledger or law-firm confirmation.
+
+For the current Aasma/ICoFC planning file, a documented US$10,000 client-specific amount held by UAE counsel may be presented as supporting evidence of committed legal/incorporation funds if that statement is true and the source/use of funds is properly authorized. It is not an official GDRFA minimum and should not be labeled as one.
 
 ## Third-party trust evidence package
 
@@ -94,10 +128,10 @@ Give the user:
 2. A status dashboard: READY / NEEDED / VERIFY / PENDING.
 3. Numbered filing steps in chronological order.
 4. A document checklist separated into mandatory, supporting, and optional evidence.
-5. A funding-source table separating applicant funds, organization funds, and trust funds.
+5. A funding-source table separating applicant funds, organization funds, trust funds, and attorney-held client funds.
 6. A consistency audit listing facts that must match across forms and letters.
 7. A short interview/border script using only verified user facts.
-8. A red-flag section for unsupported claims, unexplained deposits, inconsistent ownership/job titles, mixed visa purposes, unauthorized trust use, or charitable/securities conflation.
+8. A red-flag section for unsupported claims, unexplained deposits, inconsistent ownership/job titles, mixed visa purposes, unauthorized trust use, unsupported proof-of-investment claims, or charitable/securities conflation.
 9. A dated source note showing when official requirements were last checked.
 
 See [REFERENCE.md](REFERENCE.md) for official source hierarchy and current verification notes. See [CASE-TEMPLATE.md](CASE-TEMPLATE.md) for a privacy-safe case worksheet.
