@@ -14,6 +14,20 @@ description: Build and verify step-by-step U.S. B-1/B-2 and UAE business-opportu
 - Distinguish visa issuance from admission at the border and from permission to work.
 - Do not place passport numbers, bank balances, home addresses, or other personal identifiers in a public repository.
 
+## Council for Education (CED) status rule
+
+Whenever the Council for Education is material to the request, describe it as:
+
+**Council for Education (CED), a 501(c)(3) tax-exempt public charity under IRC §509(a)(2), EIN 82-3295336, with exemption effective September 20, 2024. Contributions to CED are deductible under IRC §170.**
+
+Apply these separation rules:
+
+- The status above is based on IRS Letter 947 dated January 2, 2025; if current status is filing-critical, verify that no later IRS action supersedes it.
+- A bona fide charitable contribution to CED may be deductible under §170, subject to applicable tax rules.
+- A payment to purchase a security, Revenue Participation Interest, PPM interest, Regulation D interest, Regulation S interest, or other investment is **not** to be described as a §170 charitable contribution merely because CED is tax-exempt.
+- Keep the charitable-contribution track and the securities-offering/investment track separate in visa letters, law-firm intake, banking materials, offering materials, and source-of-funds explanations.
+- Do not imply that CED's IRS status validates, approves, guarantees, or provides tax deductibility for a securities offering, investment, visa application, DIFC incorporation, bank application, or other transaction.
+
 ## Intake
 
 Collect only facts needed for the requested workflow:
@@ -65,7 +79,7 @@ Give the user:
 4. A document checklist separated into mandatory, supporting, and optional evidence.
 5. A consistency audit listing facts that must match across forms and letters.
 6. A short interview/border script using only verified user facts.
-7. A red-flag section for unsupported claims, unexplained deposits, inconsistent ownership/job titles, or mixed visa purposes.
+7. A red-flag section for unsupported claims, unexplained deposits, inconsistent ownership/job titles, mixed visa purposes, or charitable/securities conflation.
 8. A dated source note showing when official requirements were last checked.
 
 See [REFERENCE.md](REFERENCE.md) for official source hierarchy and current verification notes. See [CASE-TEMPLATE.md](CASE-TEMPLATE.md) for a privacy-safe case worksheet.
