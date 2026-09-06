@@ -39,7 +39,22 @@ Keep charitable contributions separate from any PPM, Regulation D, Regulation S,
 - Expenses authorized: [AIRFARE / HOTEL / LEGAL / INCORPORATION / OTHER]
 - Direct payment or reimbursement: [DIRECT / REIMBURSEMENT / BOTH]
 
-**Rule:** Trust assets are third-party financial support unless they legally belong to the applicant. A trust statement does not replace an applicant's own six-month bank statement when the selected visa service expressly requires one.
+### Attorney-held client funds
+- Law firm: [NAME]
+- Account description: [ATTORNEY CLIENT TRUST ACCOUNT / CLIENT FUNDS ACCOUNT / OTHER]
+- Client-specific amount confirmed: [YES / NO]
+- Amount: [PRIVATE CASE RECORD ONLY]
+- Date received: [DATE]
+- Purpose: [LEGAL / DIFC INCORPORATION / LICENSING / REGULATORY / OTHER]
+- Law-firm confirmation letter: [READY / NEEDED]
+- Client-specific ledger or equivalent evidence: [READY / NEEDED]
+- Source of funds documented: [READY / NEEDED]
+
+**Rules:**
+- Trust assets are third-party financial support unless they legally belong to the applicant.
+- A trust statement does not replace an applicant's own six-month bank statement when the selected visa service expressly requires one.
+- A pooled IOLTA balance is not the client's personal balance; use client-specific evidence.
+- Attorney-held funds may support a proof-of-investment narrative but are not an official minimum unless the filing authority expressly says so.
 
 ## U.S. business/conference case
 
@@ -64,25 +79,57 @@ Keep charitable contributions separate from any PPM, Regulation D, Regulation S,
 - Appointment confirmation: [READY / NEEDED]
 - Initial approval: [READY / NOT YET / VERIFY]
 - Visa authority/channel: [GDRFA / ICP / OTHER]
-- Visa category/duration: [VERIFY]
+- Visa category: [BUSINESS OPPORTUNITY EXPLORATION / OTHER]
+- Requested duration: [60 DAYS / OTHER / VERIFY]
+- Entry type: [SINGLE / MULTIPLE / VERIFY]
+- Current GDRFA requirements re-checked: [YES / NO]
+- Sponsor/host required under current service: [NO / YES / VERIFY]
+- Proof of investment: [READY / NEEDED / VERIFY ACCEPTABILITY]
 - Applicant bank statement: [READY / NEEDED / VERIFY]
 - Organization funding evidence: [READY / NEEDED / NOT USED]
 - Trust funding evidence: [READY / NEEDED / NOT USED]
+- Attorney-held client funds evidence: [READY / NEEDED / NOT USED]
 - Insurance: [READY / NEEDED / VERIFY]
 - Return/onward travel: [READY / NEEDED]
+
+## Dubai/GDRFA 60-day Business Opportunity Exploration checklist
+
+- [ ] Actual destination is Dubai.
+- [ ] Actual purpose is genuine business-opportunity exploration or preliminary business-establishment activity.
+- [ ] No unauthorized employment is planned.
+- [ ] GDRFA currently offers the 60-day option.
+- [ ] Passport meets current validity requirement.
+- [ ] Compliant photo ready.
+- [ ] Proof-of-investment evidence prepared.
+- [ ] UAE attorney engagement letter ready.
+- [ ] Formal attorney appointment confirmation ready.
+- [ ] DIFC/entity business-activity memorandum ready.
+- [ ] Ownership/governance information ready.
+- [ ] Attorney client-funds letter included if applicable.
+- [ ] Source-of-funds authorization included for CED/trust/other funder if applicable.
+- [ ] Current fee, VAT, security deposit, service charges, and filing channel verified directly with GDRFA/AMER.
+
+### Case-specific purpose statement
+
+"I am traveling temporarily to Dubai to meet retained UAE legal counsel and undertake preliminary legal and corporate steps concerning the proposed establishment and registration of [ENTITY] in [JURISDICTION]."
+
+Use only if factually accurate.
 
 ## Status dashboard
 
 | Item | Status | Owner | Notes |
 |---|---|---|---|
 | Passport |  | Applicant |  |
-| Invitation/appointment |  | Organizer/Law firm |  |
+| UAE attorney engagement |  | Law firm/Client |  |
+| Appointment confirmation |  | Law firm |  |
+| Proof of investment |  | Applicant/Funder |  |
 | Applicant funding |  | Applicant |  |
 | Organization funding |  | Organization |  |
 | Trust funding |  | Trustee |  |
+| Attorney-held client funds |  | Law firm |  |
 | Return-ties evidence |  | Applicant |  |
 | Government form |  | Applicant |  |
-| Interview/entry permit |  | Applicant |  |
+| Entry permit |  | Applicant |  |
 
 ## Final pre-filing audit
 
@@ -94,6 +141,9 @@ Keep charitable contributions separate from any PPM, Regulation D, Regulation S,
 - [ ] Any trust funding is supported by trustee authority and permitted-use documentation.
 - [ ] Trust assets are not described as the applicant's personal assets unless legally accurate.
 - [ ] Trust evidence is not used to evade an express applicant-bank-statement requirement.
+- [ ] Attorney-held client funds are described accurately and supported by client-specific evidence.
+- [ ] No attorney trust-account amount is described as an official GDRFA minimum unless the authority expressly publishes or confirms it.
+- [ ] The selected GDRFA/ICP route and duration are consistent across the application and supporting letters.
 - [ ] No unsupported bank-balance minimum has been inserted.
 - [ ] No travel history, sponsorship, ownership interest, or business activity has been invented.
 - [ ] Official requirements were re-checked on the date of filing.
