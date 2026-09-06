@@ -70,12 +70,62 @@ Official sources:
 
 Do not combine GDRFA and ICP requirements. Determine the actual filing authority and visa route first.
 
+### Dubai/GDRFA — 60-day Business Opportunity Exploration route
+
+At the latest verification, the GDRFA service titled **Visit Visa for Exploring Business Opportunities** was the preferred Dubai-specific route to examine for a genuine business-opportunity or business-establishment visit. GDRFA's published service describes this as a visit visa for researching/exploring business opportunities.
+
+Current points to verify at filing:
+
+- whether the 60-day option is currently available;
+- single-entry or multiple-entry selection;
+- passport validity requirement;
+- current photograph specification;
+- the current wording and accepted forms of **proof of investment**;
+- current visa fee, VAT, security deposit, and service/refund charges;
+- whether no sponsor/host continues to apply;
+- exact application channel, including GDRFA/AMER requirements.
+
+At the time of this reference update, the service page stated that no UAE sponsor/host was required and listed a color photograph, passport copy with at least six months' validity, and proof of investment among its published requirements. No fixed minimum bank balance was published on the service page.
+
+### Case-specific evidence strategy for Dubai/DIFC
+
+For a traveler going to Dubai for a scheduled attorney meeting and proposed DIFC formation, build a coherent file around:
+
+1. Passport and photo.
+2. UAE law-firm engagement agreement.
+3. Formal appointment confirmation with date, time, Dubai office address, attorney contact, and stated DIFC/business-establishment purpose.
+4. Proposed entity and business-activity memorandum.
+5. Ownership/governance information.
+6. Proof-of-investment evidence responsive to GDRFA's current requirement.
+7. Attorney client-funds confirmation if funds are already held for the matter.
+8. Source-of-funds documentation for applicant, CED, trust, or other genuine funder.
+9. Return/onward travel and accommodation evidence when useful or required.
+
+### Attorney client-funds / IOLTA evidence
+
+A genuine law-firm client-funds deposit may support the proof-of-investment narrative, but it is not itself an officially published minimum or automatic safe harbor.
+
+Use the clearest evidence available:
+
+- law-firm letter on letterhead;
+- client-specific ledger amount;
+- date received;
+- identity of the client/funder;
+- exact purpose of the funds;
+- whether funds are held for legal fees, DIFC incorporation, licensing, regulatory, or related establishment costs;
+- source-of-funds evidence and authorization.
+
+Do not rely on the total balance of a pooled IOLTA account as though it belongs to the applicant. Prefer **attorney client trust account**, **client funds account**, or the firm's actual account terminology unless "IOLTA" is technically accurate and relevant.
+
+For the current Aasma/ICoFC planning file, a documented **US$10,000 client-specific amount** held by UAE counsel may be used as supporting evidence of committed establishment funds if true. It must not be represented as a GDRFA-mandated minimum, because the official service page does not publish US$10,000 as a threshold.
+
 ### Financial-evidence rule
 
 - Never invent a fixed minimum bank balance where the selected official service does not publish one.
 - If the selected route requires a stamped six-month applicant bank statement, a trust bank statement does not replace it unless the authority expressly accepts a substitute.
 - A third-party revocable trust may supplement the file as proof that travel, legal, incorporation, or related expenses will be paid, provided the trustee has legal authority to make those expenditures.
 - A trust sponsorship letter does not automatically satisfy a separate "proof of investment" requirement.
+- An attorney client-funds confirmation may support proof of committed funds but does not automatically satisfy a proof-of-investment requirement unless accepted by the filing authority.
 
 ### Third-party trust funding — UAE
 
@@ -99,6 +149,7 @@ Keep each funding source separate:
 | Applicant funds | Personal ability to pay | Organizational/trust authority |
 | CED funds | Organizational sponsorship when authorized | Applicant's personal wealth |
 | Revocable trust funds | Third-party financial support when trustee is authorized | Applicant ownership, return ties, or waiver of applicant-bank-statement requirements |
+| Attorney-held client funds | Committed funds for the specific legal/business-establishment matter | Automatic satisfaction of GDRFA proof-of-investment or any fixed statutory minimum |
 
 ## Consistency audit
 
@@ -112,8 +163,10 @@ Before filing either visa case, compare forms and letters for:
 - ownership statements;
 - trip dates and length;
 - destination and purpose;
+- exact selected visa route and duration;
 - source of travel funds;
 - exact identity of any third-party funder;
 - trustee authority and permitted expense scope when trust funds are used;
+- client-specific attorney-held funds and purpose when used;
 - prior travel and visa history;
 - employment vs. temporary business activity.
